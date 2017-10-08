@@ -13,7 +13,7 @@ menu:
     weight: 1
 
 ---
-Jekyll is one of the oldest static site generators available. Built by [GitHub][1], it has tons of community support and is very stable. Additional features can be added onto Jekyll through the use of plugins. It also uses the tempting language [Liquid][2], which feels very familiar to developers and is also used by Shopify and other large-scale applications. 
+Jekyll is one of the oldest static site generators available. Built by [GitHub][1], it has tons of community support and is very stable. Additional features can be added onto Jekyll through the use of plugins. It also uses the templating language [Liquid][2], which feels very familiar to developers and is also used by Shopify and other large-scale applications. 
 
 ### Choose Jekyll if you:
 
@@ -28,7 +28,7 @@ Jekyll is one of the oldest static site generators available. Built by [GitHub][
 * Have a site with more than 500 pages, as Jekyll can be slow with large page counts.
 
 ## Getting Started
-To get started developing for Jekyll, you’ll need a basic understanding of HTML and [Liquid][2], Jekyll templating language. You’ll also likely want to [set up your local development environment][3].
+To get started developing for Jekyll, you’ll need a basic understanding of HTML and [Liquid][2], Jekyll's templating language. You’ll also likely want to [set up your local development environment][3].
 
 We also recommend that you set up a Git repository to manage development of your site. Doing so offers you [free backups][4], enables [content sync][5] with the CMS, and enables you to turn on [automatic deployments][6].
 
